@@ -31,7 +31,15 @@ To run this project, you'll need the following:
 Python 3.x
 Heroku Account
 Required Python Libraries: pandas, numpy, scikit-learn, streamlit
-## Samples
+## Working
+
+![2](https://github.com/user-attachments/assets/071f00d4-e382-4879-a9cd-7aea886ba830)
+
+![5](https://github.com/user-attachments/assets/c5db0559-ea6a-4c2d-bea4-7a33efe2d2f9)
+
+
+
+
 ## 🌐 Deploying on Heroku
 
 The application is configured for smooth deployment on Heroku. Refer to the heroku_deployment.md file for a detailed step-by-step guide.
